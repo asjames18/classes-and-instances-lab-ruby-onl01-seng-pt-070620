@@ -1,1 +1,1 @@
-Class Person
+class Person
